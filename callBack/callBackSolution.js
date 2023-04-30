@@ -19,3 +19,4 @@ waitingForSomeServerToAct(functionThatNeedsBackEndData);
  * ES6 -- promises handles async nature of JS
  * 2017 --- async functions, await keyword
  */
+//alert('This is JAva script Error')
