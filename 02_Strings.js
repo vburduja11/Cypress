@@ -4,7 +4,7 @@ let str3 = 'awesome';
 
 let result;
 
-result = " the result variable is: "+str1+str2+ " "+ str3;// like java
+result = "the result variable is: "+str1+str2+ " "+ str3;// like java
 
 console.log(result);
 
